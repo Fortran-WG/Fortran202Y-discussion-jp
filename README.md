@@ -1,2 +1,2 @@
-  # Open discussion on F202Y
+  # Open discussion on Fortran 202Y
   Fortran202Yについてのオープンな議論の場です。
